@@ -1,0 +1,80 @@
+1.
+<companies>
+ <company sr="1">
+  <id>11</id>
+  <name>Samsung</name>
+  <unit_price>3500</unit_price>
+  <stock>50</stock>
+  <status>1</status>
+ </company>
+ <company sr="2">
+  <id>20</id>
+  <name>HTC</name>
+  <unit_price>65300</unit_price>
+  <stock>35</stock>
+  <status>0</status>
+ </company>
+ <company sr="3">
+  <id>23</id>
+  <name>Nokia</name>
+  <unit_price>25100</unit_price>
+  <stock>100</stock>
+  <status>1</status>
+ </company>
+</companies>
+------------------------------------------------
+2.
+<students>
+ <student sr"1">
+  <sl_no>23</sl_no>
+  <name>John Carter</name>
+  <admisson_date>
+   <day>25</day>
+   <month>12</month>
+   <year>2015</year>
+  </admisson_date>
+ </student>
+ <student sr"2">
+  <sl_no>29</sl_no>
+  <name>Bob Marshal</name>
+  <admisson_date>
+   <day>13</day>
+   <month>01</month>
+   <year>1999</year>
+  </admisson_date>
+ </student>
+ <student sr"3">
+  <sl_no>35</sl_no>
+  <name>Clark Kent</name>
+  <admisson_date>
+   <day>17</day>
+   <month>06<month>
+   <year>2005<year>
+  </admisson_date>
+ </student>
+</students>
+-------------------------------------------------
+3.
+<employes>
+ <employe sr"1">
+  <id>1</id>
+  <name>John Doe</name>
+  <address>H# 38, R#3, Banani, Dhaka</address>
+  <department>Sales</department>
+  <salary>$20000</salary>
+ </employe>
+ <employe sr"2">
+  <id>2</id>
+  <name>Mark Zuckerberg</name>
+  <address>Flat# A/1, H# 20, R#18, Mirpur, Dhaka</address>
+  <department>Accounts</department>
+  <salary>$12000</salary>
+ </employe>
+ <employe sr"3">
+  <id>3</id>
+  <name>Ala Voski</name>
+  <address>H# 38, R#3, Motijheel</address>
+  <department>Human Resource</department>
+  <salary>$30000</salary>
+ </employe>
+</employes>
