@@ -6,8 +6,7 @@
             border: 1px solid black;
             border-collapse: collapse;
             
-        }
-        
+        }   
         .header{
             display: flex;
         }
@@ -43,52 +42,16 @@
             <td>
             <table style="margin-left:30% ;margin-bottom:20px;margin-top:10px">
         <tr>
-            <th colspan="3"> <b>REGISTRATION</b></th>
+            <th colspan="3"> <b>LOGIN</b></th>
         </tr>
         <tr>
-            <td>Name</td>
+            <td>Enter Email:</td>
             <td><input type="text"></td>
-            
-        </tr>
-        <tr>
-            <td>Email</td>
-            <td><input type="text"></td>
-            
-        </tr>
-        
-        <tr>
-            <td>User Name</td>
-            <td><input type="text"/></td>
-        </tr>
-        <tr>
-            <td>Password</td>
-            <td><input type="text"/></td>
-        </tr>
-        <tr>
-            <td>Confirm Password</td>
-            <td><input type="text"/></td>
-        </tr>
-        <tr>
-            <td>Gender</td>
-            <td>
-                <fieldset>
-                <input type="radio" name="gender" value="" /> Male
-                <input type="radio" name="gender" value="" /> Female
-                <input type="radio" name="gender" value="" /> Other <br>
-                
-                </fieldset>
-            </td>
-            
-        </tr>
-        <tr>
-            <td>Date of Birth</td>
-            <td><input type="date" name="" value="" /> <br></td>
             
         </tr>
         <tr>
             <td colspan="2" style="text-align: left">
                 <input type="submit" name="" value="Submit" />
-                <input type="submit" name="" value="Reset" />
             </td>
             
         </tr>

@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>PUBLIC HOME</title>
@@ -15,17 +14,14 @@
         .header{
             display: flex;
         }
-
         .header div{
             display: flex;
             align-items: center;
         }
-
         .header img {
             margin-right: 70%; 
         }
         
-
     </style>
 </head>
 <body>
@@ -46,7 +42,7 @@
             <td colspan="3">Welcome to xCompany</td>
         </tr>
         <tr>
-            <td colspan="3" align="center">Copyright c 2017</td>   
+            <td colspan="3" style="text-align:center">Copyright c 2017</td>   
         </tr>
     </table>
 </body>
