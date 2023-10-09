@@ -45,7 +45,7 @@
             <td>
             <table style="margin-left:30% ;margin-top:10px;">
         <tr>
-            <th colspan="3"> <b>Person Profile</b></th>
+            <th colspan="3"> <b>REGISTRATION</b></th>
         </tr>
         <tr>
             <td>Name</td>
@@ -56,6 +56,19 @@
             <td>Email</td>
             <td><input type="text"></td>
             
+        </tr>
+        
+        <tr>
+            <td>User Name</td>
+            <td><input type="text"/></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td><input type="text"/></td>
+        </tr>
+        <tr>
+            <td>Confirm Password</td>
+            <td><input type="text"/></td>
         </tr>
         <tr>
             <td>Gender</td>
@@ -75,46 +88,16 @@
             
         </tr>
         <tr>
-            <td>Blood</td>
-            <td><select name="">
-                <option value="A+">A+</option>         
-                <option value="B+">B+</option>         
-                <option value="A-">A-</option>         
-                <option value="B-">B-</option>
-                <option value="AB+">AB+</option>
-                <option value="O+">O+</option>
-                <option value="O-">O-</option>         
-            </select> </td>
-        </tr>
-        <tr>
-            <td>Degree</td>
-            <td><fieldset>
-                
-                
-                <input type="checkbox" name="" value=""/> SSC 
-                <input type="checkbox" name="" value=""/> HSC
-                <input type="checkbox" name="" value=""/> BSc 
-        
-        </fieldset></td>
-        </tr>
-        <tr>
-            <td>Profile Picture</td>
-            <td><input type="file" name="" value="" /></td>
-        </tr>
-        <tr>
-
-        </tr>
-        <tr>
-            <td colspan="2" style="text-align: right">
+            <td colspan="2" style="text-align: left">
                 <input type="submit" name="" value="Submit" />
                 <input type="submit" name="" value="Reset" />
             </td>
             
         </tr>
     </table>
-            </td>
-        </tr>
-   
+    <tr>
+        <td align="center">Copyright c 2017</td>
+    </tr>
     </table>
 </body>
 </html>
